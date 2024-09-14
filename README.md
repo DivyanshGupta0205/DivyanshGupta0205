@@ -56,10 +56,4 @@
   <br />
   
   
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DivyanshGupta0205&show_icons=true&locale=en" alt="DivyanshGupta0205" />
-  </div>
-  <br>
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshGupta0205&theme=dark" alt="DivyanshGupta0205" />
-  </div>
+ 
